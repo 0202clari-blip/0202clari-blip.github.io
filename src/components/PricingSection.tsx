@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/button";
 
 const PricingSection = () => {
   return (
-    <section className="py-20 px-4 bg-gradient-to-b from-dark-red to-background">
+    <section id="pricing" className="py-20 px-4 bg-gradient-to-b from-dark-red to-background">
       <div className="container max-w-6xl mx-auto">
         <div className="text-center mb-16">
           <div className="inline-block bg-coral/10 text-coral px-6 py-3 rounded-full text-lg font-medium mb-6">

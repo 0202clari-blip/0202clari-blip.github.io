@@ -27,10 +27,24 @@ const HeroSection = () => {
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Button size="lg" className="bg-coral hover:bg-coral-dark text-background font-semibold px-8 py-6 text-lg rounded-2xl transition-all duration-300 hover:scale-105">
+              <Button
+                size="lg"
+                className="bg-coral hover:bg-coral-dark text-background font-semibold px-8 py-6 text-lg rounded-2xl transition-all duration-300 hover:scale-105"
+                onClick={() => window.location.href = "https://thelivingtextbook.lokalingo.com/admin/bookings"}
+              >
                 Start Learning Today
               </Button>
-              <Button variant="outline" size="lg" className="border-coral text-coral hover:bg-coral hover:text-background px-8 py-6 text-lg rounded-2xl transition-all duration-300">
+              <Button
+                variant="outline"
+                size="lg"
+                className="border-coral text-coral hover:bg-coral hover:text-background px-8 py-6 text-lg rounded-2xl transition-all duration-300"
+                onClick={() => {
+                  const el = document.getElementById("pricing");
+                  if (el) {
+                    el.scrollIntoView({ behavior: "smooth" });
+                  }
+                }}
+              >
                 View Pricing
               </Button>
             </div>

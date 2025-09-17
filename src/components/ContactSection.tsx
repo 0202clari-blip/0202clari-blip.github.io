@@ -29,7 +29,12 @@ const ContactSection = () => {
                 <p className="text-coral">📧 0202.clari@gmail.com</p>
                 <p className="text-coral">🇮🇹 +39 3401981805</p>
                 <p className="text-coral">🇯🇵 +81 9053942836</p>
-                <p className="text-coral">📘 <a href="https://www.facebook.com/profile.php?id=61580960042745" target="_blank" rel="noopener noreferrer" className="hover:underline">Facebook Page</a></p>
+                <p className="flex items-center justify-center gap-2">
+                  <span style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                    <img src="/facebook.svg" alt="Facebook" width="20" height="20" style={{ display: 'block' }} />
+                  </span>
+                  <a href="https://www.facebook.com/profile.php?id=61580960042745" target="_blank" rel="noopener noreferrer" className="hover:underline text-coral font-semibold">Facebook Page</a>
+                </p>
                 <p className="text-muted-foreground text-sm">Professional in: English • Italian • Spanish</p>
               </div>
             </div>
