@@ -1,0 +1,35 @@
+{
+  "hero": {
+    "title": "NeuroLingo with Loka",
+    "subtitle": "日本の心理学・神経科学学生のための専門アカデミック英語",
+    "description": "集中的で文脈豊富なレッスンを通して科学英語用語をマスター",
+    "cta_primary": "今すぐ学習を始める",
+    "cta_secondary": "料金を見る"
+  },
+  "about": {
+    "title": "クラウディア・リッチとの出会い",
+    "description": "日本の心理学・神経科学学生が、日常理解と学術精度を橋渡しする集中的で文脈豊富なレッスンを通して科学英語用語をマスターするお手伝いをします。",
+    "specialization": "専門性の重点：日本には英語学校がたくさんありますが、学術/科学英語に特化した学校はほとんどありません。",
+    "method": "記憶を超えて：学生は単に暗記するだけでなく、論文、議論、会議で用語を使用することを学びます。"
+  },
+  "services": {
+    "title": "こんな方にぴったり...",
+    "target_title": "対象学生",
+    "pain_points": "悩みのポイント：",
+    "motivation_title": "購買動機"
+  },
+  "pricing": {
+    "title": "学習パスを選択",
+    "group_title": "グループ定期購読",
+    "individual_title": "1:1コーチング",
+    "most_popular": "最も人気",
+    "join_group": "グループクラスに参加",
+    "book_session": "1:1セッションを予約"
+  },
+  "contact": {
+    "title": "アカデミック英語で優秀になる準備はできていますか？",
+    "description": "NeuroLingoで科学英語をマスターしている日本全国の心理学・神経科学学生に参加しましょう",
+    "start_journey": "あなたの旅を始める",
+    "consultation": "相談をスケジュール"
+  }
+}
