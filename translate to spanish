@@ -1,0 +1,35 @@
+{
+  "hero": {
+    "title": "NeuroLingo with Loka",
+    "subtitle": "Inglés Académico Especializado para Estudiantes de Psicología y Neurociencia en Japón",
+    "description": "Domina la terminología científica en inglés a través de lecciones enfocadas y ricas en contexto",
+    "cta_primary": "Comenzar a Aprender Hoy",
+    "cta_secondary": "Ver Precios"
+  },
+  "about": {
+    "title": "Conoce a Claudia Ricci",
+    "description": "Ayudo a estudiantes de psicología y neurociencia en Japón a dominar la terminología científica en inglés a través de lecciones enfocadas y ricas en contexto que conectan la comprensión cotidiana con la precisión académica.",
+    "specialization": "Enfoque Especializado: Las escuelas de inglés en Japón están en todas partes, pero pocas se especializan en inglés académico/científico.",
+    "method": "Más Allá de la Memorización: Los estudiantes no solo memorizan, aprenden a usar términos en artículos, discusiones y conferencias."
+  },
+  "services": {
+    "title": "Perfecto para Ti Si...",
+    "target_title": "Estudiantes Objetivo",
+    "pain_points": "Puntos de Dolor:",
+    "motivation_title": "Motivación de Compra"
+  },
+  "pricing": {
+    "title": "Elige Tu Ruta de Aprendizaje",
+    "group_title": "Suscripción Grupal",
+    "individual_title": "Coaching 1:1",
+    "most_popular": "Más Popular",
+    "join_group": "Unirse a Clases Grupales",
+    "book_session": "Reservar Sesión 1:1"
+  },
+  "contact": {
+    "title": "¿Listo para Sobresalir en Inglés Académico?",
+    "description": "Únete a estudiantes de psicología y neurociencia de todo Japón que están dominando el inglés científico con NeuroLingo",
+    "start_journey": "Comienza Tu Viaje",
+    "consultation": "Programar Consulta"
+  }
+}
