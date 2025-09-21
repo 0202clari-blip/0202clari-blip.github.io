@@ -1,0 +1,30 @@
+import { useTranslation } from 'react-i18next';
+import { Button } from '@/components/ui/button';
+
+const LanguageSwitcher = () => {
+  const { i18n } = useTranslation();
+
+  const languages = [
+    { code: 'en', name: 'English', flag: '🇬🇧' },
+    { code: 'ja', name: '日本語', flag: '🇯🇵' },
+    { code: 'es', name: 'Español', flag: '🇪🇸' }
+  ];
+
+  return (
+    <div className="fixed top-4 right-4 z-50 flex gap-2">
+      {languages.map((lang) => (
+        <Button
+          key={lang.code}
+          variant={i18n.language === lang.code ? "default" : "outline"}
+          size="sm"
+          onClick={() => i18n.changeLanguage(lang.code)}
+          className="min-w-[60px]"
+        >
+          {lang.flag} {lang.name}
+        </Button>
+      ))}
+    </div>
+  );
+};
+
+export default LanguageSwitcher;
