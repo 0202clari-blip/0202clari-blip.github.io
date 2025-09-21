@@ -1,0 +1,35 @@
+{
+  "hero": {
+    "title": "NeuroLingo with Loka",
+    "subtitle": "Specialized Academic English for Psychology & Neuroscience Students in Japan",
+    "description": "Master scientific English terminology through focused, context-rich lessons",
+    "cta_primary": "Start Learning Today",
+    "cta_secondary": "View Pricing"
+  },
+  "about": {
+    "title": "Meet Claudia Ricci",
+    "description": "I help psychology and neuroscience students in Japan master scientific English terminology through focused, context-rich lessons that bridge everyday understanding with academic precision.",
+    "specialization": "Specialized Focus: English schools in Japan are everywhere, but few specialize in academic/scientific English.",
+    "method": "Beyond Memorization: Students don't just memorize—they learn to use terms in papers, discussions, and conferences."
+  },
+  "services": {
+    "title": "Perfect for You If...",
+    "target_title": "Target Students",
+    "pain_points": "Pain Points:",
+    "motivation_title": "Buying Motivation"
+  },
+  "pricing": {
+    "title": "Choose Your Learning Path",
+    "group_title": "Group Subscription",
+    "individual_title": "1:1 Coaching",
+    "most_popular": "Most Popular",
+    "join_group": "Join Group Classes",
+    "book_session": "Book 1:1 Session"
+  },
+  "contact": {
+    "title": "Ready to Excel in Academic English?",
+    "description": "Join psychology and neuroscience students across Japan who are mastering scientific English with NeuroLingo",
+    "start_journey": "Start Your Journey",
+    "consultation": "Schedule Consultation"
+  }
+}
